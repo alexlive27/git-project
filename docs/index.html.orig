@@ -1,4 +1,3 @@
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -6,6 +5,10 @@
 	<title>hello      </title>
 </head>
 <body>
-	<p>commit branch master</p>
+<<<<<<< HEAD
+	<p>im new_f</p>
+=======
+	<p>im master</p>
+>>>>>>> master
 </body>
 </html>
